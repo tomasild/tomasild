@@ -29,23 +29,56 @@
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 <!-- Frontend y otras habilidades relevantes -->
 <div style="display: flex; flex-wrap: wrap;">
-  <span style="background-color: #F16529; color: white; padding: 5px; margin: 5px; border-radius: 5px;">HTML5</span>
-  <span style="background-color: #264DE4; color: white; padding: 5px; margin: 5px; border-radius: 5px;">CSS3</span>
-  <span style="background-color: #F0DB4F; color: black; padding: 5px; margin: 5px; border-radius: 5px;">JavaScript</span>
-  <span style="background-color: #4B8BBE; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Axios</span>
-  <span style="background-color: #61DAFB; color: black; padding: 5px; margin: 5px; border-radius: 5px;">React.js</span>
-  <span style="background-color: #764ABC; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Redux toolkit</span>
-  <span style="background-color: #38B2AC; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Tailwind CSS</span>
-  <span style="background-color: #1A73E8; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Shadcn</span>
-  <span style="background-color: #795548; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Bootstrap</span>
-  <span style="background-color: #F34F29; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Git</span>
-  <span style="background-color: #61BD4F; color: black; padding: 5px; margin: 5px; border-radius: 5px;">a11y (Accesibilidad)</span>
-  <span style="background-color: #9E9E9E; color: black; padding: 5px; margin: 5px; border-radius: 5px;">WCAG</span>
-  <span style="background-color: #9E9E9E; color: black; padding: 5px; margin: 5px; border-radius: 5px;">VPAT</span>
-  <span style="background-color: #FF6D00; color: black; padding: 5px; margin: 5px; border-radius: 5px;">Postman</span>
-  <span style="background-color: #00758F; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Wordpress</span>
-  <span style="background-color: #96588A; color: white; padding: 5px; margin: 5px; border-radius: 5px;">WooCommerce</span>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Axios-4B8BBE?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux toolkit" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Shadcn-1A73E8?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Bootstrap-795548?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/a11y_(Accesibilidad)-61BD4F?style=for-the-badge" alt="a11y (Accesibilidad)" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WCAG-9E9E9E?style=for-the-badge" alt="WCAG" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/VPAT-9E9E9E?style=for-the-badge" alt="VPAT" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Postman-FF6D00?style=for-the-badge&logo=postman&logoColor=black" alt="Postman" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Wordpress-00758F?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  </a>
 </div>
+
 
 
 <!-- Tools and Platforms -->
