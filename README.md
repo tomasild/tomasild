@@ -1,17 +1,15 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Waseem+Piracha;Software+Engineer;Frontend+Developer;Mobile+Developer;%40ahmadpiracha">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Tomás+Langer;Web Developer;Frontend+Developer;%40tomasild">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development - Node.js - Express - MongoDB**
+- 🌱 I’m currently learning **Backend Development - Node.js - Express - MongoDB - Hugging Face API integrations**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
-
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 💬 Ask me about **React, CSS, Tailwind, Accesibility, UX**
 
 - 📫 Reach me at **tomas.ild.work@gmail.com**
 
@@ -30,80 +28,25 @@
 <br>
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
-
-<!-- Programming Languages -->
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
-
-<!-- Web Development -->
-
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-
-<!-- Mobile Development -->
-<a href="https://reactnative.dev/" target="_blank">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://expo.dev/" target="_blank">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
-</a>
-
-<!-- Frontend Frameworks/Libraries -->
-<a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
-
-<a href="https://material-ui.com/" target="_blank">
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>
-
-<!-- Database -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-
-<!-- Version Control and Collaboration -->
-<a href="https://github.com/" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<!-- Design Tools -->
-<a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
+<!-- Frontend y otras habilidades relevantes -->
+<div style="display: flex; flex-wrap: wrap; font-weight: semibold;">
+  <span style="background-color: #F16529; color: white; padding: 5px; margin: 5px; border-radius: 5px;">HTML5</span>
+  <span style="background-color: #264DE4; color: white; padding: 5px; margin: 5px; border-radius: 5px;">CSS3</span>
+  <span style="background-color: #F0DB4F; color: black; padding: 5px; margin: 5px; border-radius: 5px;">JavaScript</span>
+  <span style="background-color: #4B8BBE; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Axios</span>
+  <span style="background-color: #61DAFB; color: black; padding: 5px; margin: 5px; border-radius: 5px;">React.js</span>
+  <span style="background-color: #764ABC; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Redux toolkit</span>
+  <span style="background-color: #38B2AC; color: black; padding: 5px; margin: 5px; border-radius: 5px;">Tailwind CSS</span>
+  <span style="background-color: #1A73E8; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Shadcn</span>
+  <span style="background-color: #795548; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Bootstrap</span>
+  <span style="background-color: #F34F29; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Git</span>
+  <span style="background-color: #61BD4F; color: black; padding: 5px; margin: 5px; border-radius: 5px;">a11y (Accesibilidad)</span>
+  <span style="background-color: #9E9E9E; color: black; padding: 5px; margin: 5px; border-radius: 5px;">WCAG</span>
+  <span style="background-color: #9E9E9E; color: black; padding: 5px; margin: 5px; border-radius: 5px;">VPAT</span>
+  <span style="background-color: #FF6D00; color: black; padding: 5px; margin: 5px; border-radius: 5px;">Postman</span>
+  <span style="background-color: #00758F; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Wordpress</span>
+  <span style="background-color: #96588A; color: white; padding: 5px; margin: 5px; border-radius: 5px;">WooCommerce</span>
+</div>
 
 <!-- Tools and Platforms -->
 
@@ -113,25 +56,17 @@
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadpiracha&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=tomasild&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadpiracha&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
-
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiracha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api?username=tomasild&show_icons=true&theme=github_dark">
 </p>
 
-<hr>
+
 <br>
 
 ------
