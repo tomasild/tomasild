@@ -47,7 +47,7 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux toolkit" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
-  <a href="#" style="text-decoration: none;">
+  <a href="#" style="text-decoration: none; color:black;">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
@@ -59,7 +59,7 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
-  <a href="#" style="text-decoration: none;">
+  <a href="#" style="text-decoration: none; color:black;>
     <img src="https://img.shields.io/badge/a11y_(Accesibilidad)-61BD4F?style=for-the-badge" alt="a11y (Accesibilidad)" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
