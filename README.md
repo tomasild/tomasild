@@ -47,8 +47,8 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux toolkit" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
-  <a href="#" style="text-decoration: none; color:black;">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=black" alt="Tailwind CSS" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Shadcn-1A73E8?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn" style="padding: 5px; margin: 5px; border-radius: 5px;">
@@ -59,8 +59,8 @@
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
-  <a href="#" style="text-decoration: none; color:black;>
-    <img src="https://img.shields.io/badge/a11y_(Accesibilidad)-61BD4F?style=for-the-badge" alt="a11y (Accesibilidad)" style="padding: 5px; margin: 5px; border-radius: 5px;">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/a11y_(Accesibilidad)-000000?style=for-the-badge" alt="a11y (Accesibilidad)" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/WCAG-9E9E9E?style=for-the-badge" alt="WCAG" style="padding: 5px; margin: 5px; border-radius: 5px;">
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/VPAT-9E9E9E?style=for-the-badge" alt="VPAT" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Postman-FF6D00?style=for-the-badge&logo=postman&logoColor=black" alt="Postman" style="padding: 5px; margin: 5px; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/Postman-FF6D00?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Wordpress-00758F?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" style="padding: 5px; margin: 5px; border-radius: 5px;">
@@ -78,6 +78,7 @@
     <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
 </div>
+
 
 
 
