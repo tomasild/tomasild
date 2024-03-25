@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/a11y_(Accesibilidad)-61BD4F?style=for-the-badge" alt="a11y (Accesibilidad)" style="padding: 5px; margin: 5px; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/a11y_(Accesibilidad)-000000?style=for-the-badge" alt="a11y (Accesibilidad)" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
   <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/WCAG-000000?style=for-the-badge" alt="WCAG" style="padding: 5px; margin: 5px; border-radius: 5px;">
@@ -78,6 +78,7 @@
     <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" style="padding: 5px; margin: 5px; border-radius: 5px;">
   </a>
 </div>
+
 
 
 
