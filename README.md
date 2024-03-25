@@ -28,14 +28,14 @@
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 <!-- Frontend y otras habilidades relevantes -->
-<div style="display: flex; flex-wrap: wrap; font-weight: semibold;">
+<div style="display: flex; flex-wrap: wrap;">
   <span style="background-color: #F16529; color: white; padding: 5px; margin: 5px; border-radius: 5px;">HTML5</span>
   <span style="background-color: #264DE4; color: white; padding: 5px; margin: 5px; border-radius: 5px;">CSS3</span>
   <span style="background-color: #F0DB4F; color: black; padding: 5px; margin: 5px; border-radius: 5px;">JavaScript</span>
   <span style="background-color: #4B8BBE; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Axios</span>
   <span style="background-color: #61DAFB; color: black; padding: 5px; margin: 5px; border-radius: 5px;">React.js</span>
   <span style="background-color: #764ABC; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Redux toolkit</span>
-  <span style="background-color: #38B2AC; color: black; padding: 5px; margin: 5px; border-radius: 5px;">Tailwind CSS</span>
+  <span style="background-color: #38B2AC; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Tailwind CSS</span>
   <span style="background-color: #1A73E8; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Shadcn</span>
   <span style="background-color: #795548; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Bootstrap</span>
   <span style="background-color: #F34F29; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Git</span>
@@ -46,6 +46,7 @@
   <span style="background-color: #00758F; color: white; padding: 5px; margin: 5px; border-radius: 5px;">Wordpress</span>
   <span style="background-color: #96588A; color: white; padding: 5px; margin: 5px; border-radius: 5px;">WooCommerce</span>
 </div>
+
 
 <!-- Tools and Platforms -->
 
